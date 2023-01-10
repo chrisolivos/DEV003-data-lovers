@@ -179,7 +179,7 @@ Paleta de Colores:
 
 ## 6. Áreas de Mejora
 
-Finalizando el proyecto, al realizar los tests nos dimos cuenta que teníamos que restructurar el codigo de algunas de nuestras funciones, a continuación menciono cómo se resolvieron brevemente. 
+Finalizando el proyecto, al realizar los tests nos dimos cuenta que teníamos que restructurar el codigo de una de nuestras funciones, a continuación se menciono cómo se resolvieron brevemente. 
 
 En la Página Home deseábamos desplegar un pokemon random cada vez que la recargamos. 
 Se resuelve usando el método estadístico Math.random()
